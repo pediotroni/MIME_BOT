@@ -1,16 +1,16 @@
 {  
-  "codes": [  
-   {  
-    "Request": "Code1",  
-    "Response": "Respond to code1"  
-   },  
-   {  
-    "Request": "Code2",  
-    "Response": "Replay to code2"  
-   },  
-   {  
-    "Request": "Code3",  
-    "Response": "Answer to code3"  
-   }  
-  ]  
+  "columns": ["Request", "Response"],  
+  "data": {  
+   "hi": "درود",  
+   "hello": "سلام",  
+   "price": "قیمت ناقابل تقدیم میشه با احترام صد هزار تومان",  
+   "چند تا": "مقدار موجود: یه دو سه تا",  
+   "چند تا؟": "مقدار موجود: یه دو سه تا",  
+   "123": "الله اکبر",  
+   "goodbye": "خداحافظ",  
+   "bye": "بای",  
+   "Code1": "Respond to code1",  
+   "Code2": "Respond to code2",  
+   "Code3": "Respond to code3"  
+  }  
 }
