@@ -1,0 +1,16 @@
+{  
+  "codes": [  
+   {  
+    "Request": "Code1",  
+    "Response": "Respond to code1"  
+   },  
+   {  
+    "Request": "Code2",  
+    "Response": "Replay to code2"  
+   },  
+   {  
+    "Request": "Code3",  
+    "Response": "Answer to code3"  
+   }  
+  ]  
+}
