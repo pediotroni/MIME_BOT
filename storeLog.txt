@@ -3,3 +3,4 @@
 {"timestamp":"2024-12-26T16:29:39.586Z","request":"لیست دستورات","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-26T16:29:42.628Z","request":"$","response":"80000 تومان"}
 {"timestamp":"2024-12-26T21:40:47.756Z","request":"hi","response":"\"hi\" is not recognized."}
+{"timestamp":"2024-12-26T23:07:34.374Z","request":"/command99","response":"\"/command99\" is not recognized."}
