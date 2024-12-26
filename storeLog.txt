@@ -1,3 +1,4 @@
 {"timestamp":"2024-12-26T14:33:47.381Z","request":"code2","response":"\"code2\" is not recognized."}
-{"timestamp":"2024-12-26T14:48:59.881Z","request":"Ø§ØµØºØ±","response":"\"Ø§ØµØºØ±\" is not recognized."}
-{"timestamp":"2024-12-26T14:49:05.660Z","request":"123","response":"الله اکبر"}
+{"timestamp":"2024-12-26T14:48:59.881Z","request":"ÃÂ§ÃÂµÃÂºÃÂ±","response":"\"ÃÂ§ÃÂµÃÂºÃÂ±\" is not recognized."}
+{"timestamp":"2024-12-26T14:49:05.660Z","request":"123","response":"Ø§ÙÙÙ Ø§Ú©Ø¨Ø±"}
+{"timestamp":"2024-12-26T14:59:15.310Z","request":"قیمت لحظه ای دلار","response":"\"قیمت لحظه ای دلار\" is not recognized."}
