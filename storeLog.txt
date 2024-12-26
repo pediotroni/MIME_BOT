@@ -1,3 +1,4 @@
 {"timestamp":"2024-12-26T16:24:35.109Z","request":"آره یادم نبود","response":"\"آره یادم نبود\" is not recognized."}
 {"timestamp":"2024-12-26T16:29:12.914Z","request":"باریکلا","response":"\"باریکلا\" is not recognized."}
 {"timestamp":"2024-12-26T16:29:39.586Z","request":"لیست دستورات","response":"$/gold/dollar/طلا/ارز/دلار"}
+{"timestamp":"2024-12-26T16:29:42.628Z","request":"$","response":"80000 تومان"}
