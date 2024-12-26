@@ -1,4 +1,4 @@
-"$": "درود"
+"$": "80000 تومان"
 "gold": "www.tgju.org/gold-chart"
 "طلا": "https://www.tgju.org/gold-chart"
 "ارز": "https://www.tgju.org/profile/price_dollar_rl"
