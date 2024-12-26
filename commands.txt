@@ -1,5 +1,5 @@
 "$": "درود"
-"gold": "https://www.tgju.org/gold-chart"
+"gold": "www.tgju.org/gold-chart"
 "طلا": "https://www.tgju.org/gold-chart"
 "ارز": "https://www.tgju.org/profile/price_dollar_rl"
 "دلار": "https://www.tgju.org/profile/price_dollar_rl"
