@@ -6,3 +6,5 @@
 "dollar": "https://www.tgju.org/profile/price_dollar_rl"
 "لیست دستورات": "$/gold/dollar/طلا/ارز/دلار"
 "help": "$/gold/dollar/طلا/ارز/دلار"
+"کمک": "$/gold/dollar/طلا/ارز/دلار"
+"/start": "یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد"
