@@ -10,3 +10,4 @@
 {"timestamp":"2024-12-28T07:12:21.565Z","request":"ورجامند","response":"\"ورجامند\" is not recognized."}
 {"timestamp":"2024-12-28T09:22:23.907Z","request":"/start","response":"یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد"}
 {"timestamp":"2024-12-28T09:22:49.193Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
+{"timestamp":"2024-12-28T09:23:01.642Z","request":"زلا","response":"\"زلا\" is not recognized."}
