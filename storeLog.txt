@@ -7,3 +7,4 @@
 {"timestamp":"2024-12-28T17:40:48.919Z","request":"varjamand","response":"\"varjamand\" is not recognized."}
 {"timestamp":"2024-12-28T17:41:52.795Z","request":"dollar","response":"https://www.tgju.org/profile/price_dollar_rl"}
 {"timestamp":"2024-12-28T17:41:59.334Z","request":"varjamand","response":"https://www.youtube.com/@varjamand"}
+{"timestamp":"2024-12-28T17:42:07.139Z","request":"ورجامند","response":"http://t.me/varjamand"}
