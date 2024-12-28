@@ -9,3 +9,4 @@
 {"timestamp":"2024-12-28T17:41:59.334Z","request":"varjamand","response":"https://www.youtube.com/@varjamand"}
 {"timestamp":"2024-12-28T17:42:07.139Z","request":"ورجامند","response":"http://t.me/varjamand"}
 {"timestamp":"2024-12-28T21:51:44.919Z","request":"/start","response":"یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد"}
+{"timestamp":"2024-12-28T21:52:14.100Z","request":"ورجامند","response":"http://t.me/varjamand"}
