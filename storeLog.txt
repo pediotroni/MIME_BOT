@@ -24,3 +24,4 @@
 {"timestamp":"2024-12-28T13:45:21.424Z","request":"/start","response":"\"/start\" is not recognized."}
 {"timestamp":"2024-12-28T13:47:15.502Z","request":"طلا","response":"https"}
 {"timestamp":"2024-12-28T13:56:09.420Z","request":"$","response":"80000 تومان"}
+{"timestamp":"2024-12-28T13:56:13.871Z","request":"طلا","response":"https://www.tgju.org/gold-chart"}
