@@ -7,3 +7,4 @@
 {"timestamp":"2024-12-26T23:11:56.702Z","request":"$","response":"80000 تومان"}
 {"timestamp":"2024-12-28T06:31:03.623Z","request":"آزمایش","response":"\"آزمایش\" is not recognized."}
 {"timestamp":"2024-12-28T06:59:05.729Z","request":"های","response":"\"های\" is not recognized."}
+{"timestamp":"2024-12-28T07:12:21.565Z","request":"ورجامند","response":"\"ورجامند\" is not recognized."}
