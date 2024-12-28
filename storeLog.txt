@@ -29,3 +29,4 @@
 {"timestamp":"2024-12-28T17:36:29.691Z","request":"gold","response":"www.tgju.org/gold-chart"}
 {"timestamp":"2024-12-28T17:36:43.291Z","request":"Reza","response":"\"Reza\" is not recognized."}
 {"timestamp":"2024-12-28T17:36:51.391Z","request":"ورجامند","response":"\"ورجامند\" is not recognized."}
+{"timestamp":"2024-12-28T17:36:55.354Z","request":"varjamand","response":"\"varjamand\" is not recognized."}
