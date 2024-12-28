@@ -5,3 +5,4 @@
 {"timestamp":"2024-12-28T17:40:31.911Z","request":"$","response":"80000 تومان"}
 {"timestamp":"2024-12-28T17:40:44.877Z","request":"رشقتشئشدی","response":"\"رشقتشئشدی\" is not recognized."}
 {"timestamp":"2024-12-28T17:40:48.919Z","request":"varjamand","response":"\"varjamand\" is not recognized."}
+{"timestamp":"2024-12-28T17:41:52.795Z","request":"dollar","response":"https://www.tgju.org/profile/price_dollar_rl"}
