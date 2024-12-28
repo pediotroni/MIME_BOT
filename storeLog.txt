@@ -3,3 +3,4 @@
 {"timestamp":"2024-12-28T17:40:14.574Z","request":"varjamand","response":"\"varjamand\" is not recognized."}
 {"timestamp":"2024-12-28T17:40:28.332Z","request":"ورجامند","response":"\"ورجامند\" is not recognized."}
 {"timestamp":"2024-12-28T17:40:31.911Z","request":"$","response":"80000 تومان"}
+{"timestamp":"2024-12-28T17:40:44.877Z","request":"رشقتشئشدی","response":"\"رشقتشئشدی\" is not recognized."}
