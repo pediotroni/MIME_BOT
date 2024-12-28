@@ -12,3 +12,4 @@
 {"timestamp":"2024-12-28T09:22:49.193Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-28T09:23:01.642Z","request":"زلا","response":"\"زلا\" is not recognized."}
 {"timestamp":"2024-12-28T09:23:04.669Z","request":"طلا","response":"https"}
+{"timestamp":"2024-12-28T09:23:36.886Z","request":"$","response":"80000 تومان"}
