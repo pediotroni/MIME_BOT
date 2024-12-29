@@ -21,3 +21,4 @@
 {"timestamp":"2024-12-29T08:06:39.839Z","request":"لیست دستورات","response":"\"لیست دستورات\" is not recognized."}
 {"timestamp":"2024-12-29T08:06:44.847Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-29T08:06:54.945Z","request":"Help","response":"\"Help\" is not recognized."}
+{"timestamp":"2024-12-29T08:07:15.736Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
