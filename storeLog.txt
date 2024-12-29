@@ -24,3 +24,4 @@
 {"timestamp":"2024-12-29T08:07:15.736Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-29T08:07:27.757Z","request":"gold","response":"www.tgju.org/gold-chart"}
 {"timestamp":"2024-12-29T08:08:19.734Z","request":"دلار","response":"https://www.tgju.org/profile/price_dollar_rl"}
+{"timestamp":"2024-12-29T08:08:30.310Z","request":"طلا","response":"https://www.tgju.org/gold-chart"}
