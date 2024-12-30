@@ -1,3 +1,4 @@
 {"timestamp":"2024-12-29T08:09:22.277Z","request":"dollar","response":"https://www.tgju.org/profile/price_dollar_rl"}
 {"timestamp":"2024-12-29T11:42:25.673Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-30T07:21:26.189Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
+{"timestamp":"2024-12-30T07:48:19.115Z","request":"$","response":"80000 تومان"}
