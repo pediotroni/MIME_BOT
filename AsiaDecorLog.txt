@@ -4,3 +4,4 @@
 {"timestamp":"2024-12-30T08:27:08.290Z","request":"D1146","response":"1;"}
 {"timestamp":"2024-12-30T08:29:57.703Z","request":"/start","response":"لیست تمامی دستورات با عبارت کمک;"}
 {"timestamp":"2024-12-30T08:30:05.863Z","request":"کمک","response":"\"کمک\" is not recognized."}
+{"timestamp":"2024-12-30T08:30:17.375Z","request":"C90","response":"0;"}
