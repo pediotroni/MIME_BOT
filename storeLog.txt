@@ -3,3 +3,4 @@
 {"timestamp":"2024-12-30T07:21:26.189Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-30T07:48:19.115Z","request":"$","response":"80000 تومان"}
 {"timestamp":"2024-12-30T21:08:49.295Z","request":"/start","response":"یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد"}
+{"timestamp":"2024-12-30T21:08:57.366Z","request":"۳۴۳","response":"\"۳۴۳\" is not recognized."}
