@@ -7,3 +7,4 @@
 {"timestamp":"2024-12-30T21:09:04.316Z","request":"243","response":"\"243\" is not recognized."}
 {"timestamp":"2024-12-30T21:09:07.167Z","request":"1","response":"\"1\" is not recognized."}
 {"timestamp":"2024-12-30T21:09:41.946Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
+{"timestamp":"2024-12-30T21:09:49.284Z","request":"طلا","response":"https://www.tgju.org/gold-chart"}
