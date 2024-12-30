@@ -5,3 +5,4 @@
 {"timestamp":"2024-12-30T21:08:49.295Z","request":"/start","response":"یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد"}
 {"timestamp":"2024-12-30T21:08:57.366Z","request":"۳۴۳","response":"\"۳۴۳\" is not recognized."}
 {"timestamp":"2024-12-30T21:09:04.316Z","request":"243","response":"\"243\" is not recognized."}
+{"timestamp":"2024-12-30T21:09:07.167Z","request":"1","response":"\"1\" is not recognized."}
