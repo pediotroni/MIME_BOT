@@ -10,3 +10,4 @@
 {"timestamp":"2024-12-30T08:31:32.222Z","request":"C90","response":"0;"}
 {"timestamp":"2024-12-30T08:33:30.800Z","request":"/start","response":"لیست تمامی دستورات با عبارت کمک"}
 {"timestamp":"2024-12-30T08:33:35.465Z","request":"کمک","response":"لیست تمامی دستورات اعمند از"}
+{"timestamp":"2024-12-30T08:34:23.671Z","request":"B073","response":"15"}
