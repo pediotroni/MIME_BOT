@@ -1,2 +1,3 @@
 
 {"timestamp":"2024-12-30T08:14:45.448Z","request":"B073","response":"15;"}
+{"timestamp":"2024-12-30T08:18:41.332Z","request":"کمک","response":"\"کمک\" is not recognized."}
