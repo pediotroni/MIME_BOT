@@ -8,3 +8,4 @@
 {"timestamp":"2024-12-30T08:31:19.185Z","request":"سلام","response":"درود بر شما لطفا فقط کد ارسال فرمایید;"}
 {"timestamp":"2024-12-30T08:31:27.468Z","request":"کمک","response":"\"کمک\" is not recognized."}
 {"timestamp":"2024-12-30T08:31:32.222Z","request":"C90","response":"0;"}
+{"timestamp":"2024-12-30T08:33:30.800Z","request":"/start","response":"لیست تمامی دستورات با عبارت کمک"}
