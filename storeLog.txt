@@ -20,3 +20,4 @@
 {"timestamp":"2024-12-31T07:58:02.745Z","request":"/start","response":"یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد"}
 {"timestamp":"2024-12-31T07:58:12.824Z","request":"کمک","response":"$/gold/dollar/طلا/ارز/دلار"}
 {"timestamp":"2024-12-31T07:58:16.641Z","request":"طلا","response":"https://www.tgju.org/gold-chart"}
+{"timestamp":"2025-01-02T20:19:25.071Z","request":"Code2","response":"\"Code2\" is not recognized."}
