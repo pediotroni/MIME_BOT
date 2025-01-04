@@ -23,3 +23,4 @@
 {"timestamp":"2025-01-02T20:19:25.071Z","request":"Code2","response":"\"Code2\" is not recognized."}
 {"timestamp":"2025-01-02T20:19:31.760Z","request":"Code 2","response":"\"Code 2\" is not recognized."}
 {"timestamp":"2025-01-02T20:19:41.112Z","request":"Test","response":"\"Test\" is not recognized."}
+{"timestamp":"2025-01-04T14:44:24.386Z","request":"سلام","response":"\"سلام\" is not recognized."}
