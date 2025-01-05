@@ -1,10 +1,1 @@
-$: "80000 تومان";
-gold: "www.tgju.org/gold-chart";
-طلا: "https://www.tgju.org/gold-chart";
-ارز: "https://www.tgju.org/profile/price_dollar_rl";
-دلار: "https://www.tgju.org/profile/price_dollar_rl";
-dollar: "https://www.tgju.org/profile/price_dollar_rl";
-varjamand: "https://www.youtube.com/@varjamand";
-ورجامند: "http://t.me/varjamand";
-کمک: "$/gold/dollar/طلا/ارز/دلار";
-/start: "یک کد وارد کنید تا جواب معادل آنرا دریافت کنید، بنویسید کمک تا لیست دستورات براتون بیاد";
+001:Homer Sympson
