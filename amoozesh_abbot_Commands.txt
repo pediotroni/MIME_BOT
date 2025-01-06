@@ -1,4 +1,4 @@
 /start: "لیست تمامی دستورات با عبارت کمک"
-mim: mim.txt
+mim:mim.txt
 jeddi:jeddi.txt
-req_res :req_res.txt
+req_res:req_res.txt
