@@ -1,2 +1,3 @@
 
 {"timestamp":"2025-01-06T17:12:13.948Z","request":"1","response":"\"1\" is not recognized."}
+{"timestamp":"2025-01-06T17:12:20.244Z","request":"A001","response":"11"}
