@@ -4,3 +4,4 @@
 {"timestamp":"2025-01-06T17:12:24.751Z","request":"کمک","response":"A001-B073-C90-D1146"}
 {"timestamp":"2025-01-06T19:18:53.357Z","request":"1","response":"Handled command"}
 {"timestamp":"2025-01-06T19:18:57.894Z","request":"mim","response":"Handled command"}
+{"timestamp":"2025-01-06T19:20:13.085Z","request":"req_res","response":"Handled command"}
