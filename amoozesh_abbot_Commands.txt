@@ -1,2 +1,3 @@
 /start: "لیست تمامی دستورات با عبارت کمک"
 mim: mim.txt
+req_res :req_res.txt
