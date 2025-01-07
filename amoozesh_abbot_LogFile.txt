@@ -1,17 +1,1 @@
 
-{"timestamp":"2025-01-06T17:12:13.948Z","request":"1","response":"\"1\" is not recognized."}
-{"timestamp":"2025-01-06T17:12:20.244Z","request":"A001","response":"11"}
-{"timestamp":"2025-01-06T17:12:24.751Z","request":"کمک","response":"A001-B073-C90-D1146"}
-{"timestamp":"2025-01-06T19:18:53.357Z","request":"1","response":"Handled command"}
-{"timestamp":"2025-01-06T19:18:57.894Z","request":"mim","response":"Handled command"}
-{"timestamp":"2025-01-06T19:20:13.085Z","request":"req_res","response":"Handled command"}
-{"timestamp":"2025-01-06T19:20:38.530Z","request":"mim","response":"Handled command"}
-{"timestamp":"2025-01-06T20:12:16.257Z","request":"mim","response":"Handled command"}
-{"timestamp":"2025-01-06T20:18:25.545Z","request":"mim","response":"Handled command"}
-{"timestamp":"2025-01-06T20:18:29.907Z","request":"mim.txt","response":"Handled command"}
-{"timestamp":"2025-01-06T20:18:35.799Z","request":"2","response":"Handled command"}
-{"timestamp":"2025-01-06T20:28:05.301Z","request":"بسمه","response":"Handled command"}
-{"timestamp":"2025-01-06T20:28:13.198Z","request":"mim","response":"Handled command"}
-{"timestamp":"2025-01-06T20:28:19.183Z","request":"mim","response":"Handled command"}
-{"timestamp":"2025-01-06T20:29:11.147Z","request":"req_res","response":"Handled command"}
-{"timestamp":"2025-01-06T20:29:27.153Z","request":"jeddi","response":"Handled command"}
