@@ -1,9 +1,1 @@
-Gishmiz@2025-01-04T21:51:08.221Z:سهیلا
-Gishmiz@2025-01-04T21:52:09.825Z:به تخمم
-Gishmiz@2025-01-04T22:01:37.960Z:Hello, please introduce yourself.
-Gishmiz@2025-01-04T23:12:21.207Z:Hello, are you ChatGPT?
-Gishmiz@2025-01-05T07:25:35.162Z:Hello, are you ChatGPT?
-{"date":"2025-01-10T09:38:52.718Z","chatId":42756767,"username":"Gishmiz","prompt":"Hi! Lets get to know each other!","answer":"Sorry, the AI service is currently unavailable. Please try again later.","creditSpent":11}
-{"date":"2025-01-10T09:38:55.442Z","chatId":42756767,"username":"Gishmiz","prompt":"What languages can I speak to you?","answer":"Sorry, the AI service is currently unavailable. Please try again later.","creditSpent":11}
-{"date":"2025-01-10T09:38:57.973Z","chatId":42756767,"username":"Gishmiz","prompt":"Hi! Lets get to know each other!","answer":"Sorry, the AI service is currently unavailable. Please try again later.","creditSpent":11}
-{"date":"2025-01-10T09:44:54.202Z","chatId":42756767,"username":"Gishmiz","prompt":"What languages can I speak to you?","answer":"Sorry, the AI service is currently unavailable. Please try again later.","creditSpent":11}
+
